@@ -11,7 +11,7 @@
 
         <div class="row">
             <div class="col">
-                <a href="#" class="btn btn-primary"><i class="fas fa-arrow-left"></i></a>
+                <a href="{{route('bucket')}}" class="btn btn-primary"><i class="fas fa-arrow-left"></i></a>
             </div>
         </div>
 
