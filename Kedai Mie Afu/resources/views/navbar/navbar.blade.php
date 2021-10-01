@@ -4,7 +4,7 @@
         <nav class="navbar navbar-expand-lg navbar-light fixed-top bg-light ">
             <div class="container">
                 <a href="#" aria-current="page"> <img class="img-fluid ms-1" src="{{asset('frontend/img/index.png')}}" style="width: 3rem;"> </a>
-                <a class="navbar-brand" href="{{route('welcome')}}">Palakao Store</a>
+                <a class="navbar-brand" href="{{route('welcome')}}">Kedai Mie Afu</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
