@@ -14,7 +14,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet"> 
 
-    <title>Login</title>
+    <title>SignUp</title>
 
     <style>
         body {
@@ -63,7 +63,7 @@
         <div class="col p-0 d-flex justify-content-center align-items-center" >
             <form class="w-75">
                 <h2 class="form-label">SignUp</h2>
-                <p class="tag-p">Find your best ever meal.</p>
+                <p class="tag-p">Find your best ever Mie</p>
                 <div class="mb-3">
                   <label for="exampleInputEmail1" class="form-label">Email</label>
                   <input placeholder="Email" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
